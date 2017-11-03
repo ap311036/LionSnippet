@@ -1,2 +1,2 @@
-# LionSnippet
+# LionSnippet(Sass)
 Snippet For Lion

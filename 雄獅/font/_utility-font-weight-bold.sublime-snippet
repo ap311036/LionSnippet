@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:font-bold}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>font-weight-bold</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ejs, text.html</scope>
+	<description>雄獅font-weight:bold (手機)</description>
+</snippet>

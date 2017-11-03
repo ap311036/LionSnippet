@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:md-pl}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md-float-left</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ejs, text.html</scope>
+	<description>雄獅float:left (桌機)</description>
+</snippet>

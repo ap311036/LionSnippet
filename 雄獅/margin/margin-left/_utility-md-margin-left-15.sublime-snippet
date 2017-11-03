@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:md-m-l-n}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md-margin-left--15px</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ejs, text.html</scope>
+	<description>雄獅margin-left: -15px (桌機)</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:md-wrapper-n}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md-padding-0px</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ejs, text.html</scope>
+	<description>雄獅padding: 0px (桌機)</description>
+</snippet>
